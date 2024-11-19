@@ -3,8 +3,8 @@ Hi! I am Dodi!
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dodiwahyu/)](https://www.linkedin.com/in/dodiwahyu/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dxdiwp/)](https://instagram.com/kanna6501)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dodi_wahyu/)](https://www.linkedin.com/in/dodi_wahyu/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dxdiwp/)](https://instagram.com/dxdiwp)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:dodiwahyu28@gmail.com)
 [![GitHub Badge](https://img.shields.io/github/followers/dxdiwp?label=follow&style=social)](https://github.com/dxdiwp)
 
