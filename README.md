@@ -18,7 +18,7 @@ const thai = {
 }
 ```
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,laravel,python,flask,mysql,postgresql,mongodb,docker,elasticsearch,django,kubernetes,gcp,aws&perline=16)]
+[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,laravel,python,flask,mysql,postgresql,mongodb,docker,elasticsearch,django,kubernetes,gcp,aws&perline=16)]]
 
 
 ---
