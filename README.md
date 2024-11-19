@@ -29,9 +29,9 @@ Hi 👋! I am Dodi!
 <h3> A little more about me ! <h3/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dxdiwp&show_icons=true&theme=dark" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=dxdiwp&show_icons=true&theme=dark" width="400">
 
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=dxdiwp&theme=dark" width="350">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=dxdiwp&theme=dark" width="400">
 </p>
 
 ---
