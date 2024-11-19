@@ -1,37 +1,42 @@
 <h1>
-Hi 👋! I am Dodi! 
+Hi! I am Dodi! 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-[![Linkedin: Dodi Wahyu](https://img.shields.io/badge/-dxdiwp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dodiwahyu/)](https://www.linkedin.com/in/dodiwahyu/)
-[![GitHub Dxdiwp](https://img.shields.io/github/followers/dxdiwp?label=follow&style=social)](https://github.com/dxdiwp)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dodiwahyu/)](https://www.linkedin.com/in/dodiwahyu/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dxdiwp/)](https://instagram.com/kanna6501)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:dodiwahyu28@gmail.com)
+[![GitHub Badge](https://img.shields.io/github/followers/dxdiwp?label=follow&style=social)](https://github.com/dxdiwp)
 
-<h3> Technical Skill <h3/>
+<h2>⚡Technologies</h2>
 
-<h4>Languages<h4/>
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 
-![Skills](https://skillicons.dev/icons?i=js,html,css&perline=10)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
-<h4>Framework and Libraries<h4/>
-
-![Skills](https://skillicons.dev/icons?i=nodejs,express,react,tailwind,bootstrap&perline=10)
-
-<h4>Databases<h4/>
-
-![Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=10)
-
-<h4>Tools<h4/>
-
-![Skills](https://skillicons.dev/icons?i=vscode,git,postman,figma&perline=10)
-
----
-
-<h3> A little more about me ! <h3/>
-
+<h2> A little more about me ! <h2/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dxdiwp&show_icons=true&theme=dark" width="400">
 
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=dxdiwp&theme=dark" width="400">
+   <p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=dxdiwp&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dxdiwp&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&count_private=true&hide=jupyter%20notebook,tex,css">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=dxdiwp&theme=dark&hide_border=true&background=FFFFFF00">
+  <!-- <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p> -->
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dxdiwp.dxdiwp)
 </p>
-
----
